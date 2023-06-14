@@ -12,7 +12,7 @@ def main():
     print(random_joke, end='\n\n')
 
     # Test the search_dad_jokes() function
-    jokes = search_dad_jokes('hipster')
+    jokes = search_dad_jokes('dog')
     for j in jokes['results']:
         print(j['joke'])
 
