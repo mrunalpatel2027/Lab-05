@@ -10,7 +10,7 @@ def main():
     # Test out the get_pokemon_info() function
     # Use breakpoints to view returned dictionary
     poke_info = get_pokemon_info("butterfree")
-    
+    return
     
 def get_pokemon_info(pokemon_name):
     """Gets information about a specified Pokemon from the PokeAPI.

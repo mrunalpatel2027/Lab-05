@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "paste Pikachu",
+            "name": "Butter free paste",
             "type": "python",
             "request": "launch",
             "program": "pokemon_paste.py",
